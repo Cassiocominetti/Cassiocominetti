@@ -12,7 +12,7 @@
 
 - ▶️ I have an Instagram profile where I would like to share contents and experiences in the future [you can check it here: (https://www.instagram.com/cassio.dev/)]
 
-- ⚡ Fun fact **Oneye 😜** - My name is Cassiano, but my mom, family and friends call me Cassio. Feel free to choose.
+- ⚡ Fun fact - My name is Cassiano, but my mom, family and friends call me Cassio. Feel free to choose.
 
 <br>
 
