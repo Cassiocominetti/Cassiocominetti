@@ -4,11 +4,11 @@
 
 - 🔥 Junior Front-end Developer.
 
-- 🔭 I’m currently working as Front-end Assistent, helping a Senior Full-stack Developer with daily tasks. Tasks can include technologies as HTML, CSS, Javascript, Typescript, Tailwind, Remix, Expo, React, and others.
+- 🔭 I’m currently working as Junior Front-end Developer, helping a Senior Full-stack Developer, and also a local Tech Company, with daily tasks. The tasks can include technologies and platforms such as HTML, CSS, Javascript, Typescript, Tailwindcss, React.JS, Jira, Git, GitFlow, Figma and others.
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, Tailwind, Remix, Expo, React, and others. Yes, I am a very Junior DEV.
+- 🌱 I’m currently studying HTML, CSS, Javascript, Typescript, Tailwind, React, and others. Yes, I am a very Junior DEV.
 
-- 💬 I can speak Portuguese, Spanish, English, and I am currently studying Italian. I would like to learn also French and German.
+- 💬 I can speak Portuguese, Spanish, English, and I am currently studying Italian. 
 
 - ▶️ I have an Instagram profile where I would like to share contents and experiences in the future [you can check it here: (https://www.instagram.com/cassio.dev/)]
 
