@@ -4,9 +4,9 @@
 
 - 🔥 Junior Front-end Developer.
 
-- 🔭 I’m currently working as Junior Front-end Developer, helping a Senior Full-stack Developer, and also a local Tech Company, with daily tasks. The tasks can include technologies and platforms such as HTML, CSS, Javascript, Typescript, Tailwindcss, React.JS, Jira, Git, GitFlow, Figma and others.
+- 🔭 I’m currently working as Junior Front-end Developer, freelance helping Senior Full-stack Developers, and also a local Tech Company, with daily tasks. The tasks can include technologies and platforms such as HTML, CSS, Javascript, Typescript, Tailwindcss, React.JS, Axio,s, Formik, Yup, Jira, Git, GitFlow, Figma and others.
 
-- 🌱 I’m currently studying HTML, CSS, Javascript, Typescript, Tailwind, React, and others. Yes, I am a very Junior DEV.
+- 🌱 I’m currently studying front-end development, but also getting in touch with back-end development for a future full-stack carreer.
 
 - 💬 I can speak Portuguese, Spanish, English, and I am currently studying Italian. 
 
