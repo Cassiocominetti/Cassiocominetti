@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as Junior Front-end Developer, freelance helping Senior Full-stack Developers, and also local tech companies, with daily tasks.
      I have different levels of expertise in front-end development technologies, encompassing HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.JS, Axios, Formik, Yup, Jira, Git, GitFlow, and others.
 
-- 🌱 I’m currently studying front-end development, artificial intelligence, and also getting in touch with back-end development for a future full-stack carreer.
+- 🔭 Worked on improving and enhancing the accuracy of artificial intelligence models through data annotation and analysis for highly relevant large language models (LLM), ensuring the quality of data feeding the system and continuously improving its performance. Key projects included the Llama (Large Language Model Meta AI) and the Meta AI conversational assistant.
 
 - 💬 I can speak Portuguese, Spanish, English, and I am currently studying Italian. 
 
