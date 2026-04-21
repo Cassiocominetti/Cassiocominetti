@@ -1,15 +1,25 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Cassiano — but feel free to call me Cassio!</h1>
 
-**Junior Front-end Developer & AI Data Trainer** based in Brazil 🇧🇷🇮🇹, open to remote opportunities worldwide.
+**Front-end Developer & AI Data Trainer** based in Brazil, open to remote opportunities worldwide.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔥 Front-end developer with hands-on experience in **HTML, CSS, JavaScript, TypeScript, React.JS, TailwindCSS, Axios, Formik, Yup, Git, GitFlow and Jira**
-- 🤖 Worked as **AI Data Trainer** improving large language models (LLMs) accuracy through data annotation and evaluation — key projects included **LLaMA** and the **Meta AI conversational assistant** (via RWS Group)
+- 🔥 Front-end developer with hands-on experience in **HTML, CSS, JavaScript, TypeScript, React, REST APIs, TailwindCSS, Axios, Formik, Yup, Git, branching workflows (GitFlow) and Jira**
+- 🤖 Worked as **AI Data Trainer** improving large language models (LLMs) through data annotation, response evaluation, preference ranking (RLHF), and quality review — including projects involving **Llama** and **Meta AI**
 - 🌍 Multilingual: **Portuguese** (native) · **English** (advanced) · **Spanish** (intermediate) · **Italian** (basic)
-- 🚀 Currently expanding into **AI agents and AI-assisted development**
+- 🚀 Currently expanding my knowledge in **applied AI, automation, and agentic workflows**.
+
+---
+
+### Featured Projects
+
+#### Viver de Cripto — Trade Calculator
+Web-based trade calculator for position sizing and risk management across crypto, commodities, and stocks, built with HTML, CSS and JavaScript.
+
+🔗 [Live Demo](https://calculadoraviverdecripto.vercel.app/)  
+📁 [Repository](...)
 
 ---
 
@@ -37,11 +47,5 @@
 
 ### 📬 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/cassianocominetti/" target="_blank">
-    <img src="https://img.shields.io/badge/-cassianocominetti-05122A?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:cassianocmt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-cassianocmt@gmail.com-05122A?style=flat&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassianocominetti/)
+[![Email](https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=white)](mailto:cassianocmt@gmail.com)
