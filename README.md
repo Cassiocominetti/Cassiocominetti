@@ -19,7 +19,7 @@
 Web-based trade calculator for position sizing and risk management across crypto, commodities, and stocks, built with HTML, CSS and JavaScript.
 
 🔗 [Live Demo](https://calculadoraviverdecripto.vercel.app/)  
-📁 [Repository](...)
+📁 [Repository](https://github.com/Cassiocominetti/trade-calculator)
 
 ---
 
